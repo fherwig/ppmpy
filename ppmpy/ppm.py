@@ -130,7 +130,7 @@ import matplotlib.pylab as pyl
 import matplotlib.pyplot as pl
 import os
 import re
-import astronomy as ast
+from nugridpy import astronomy as ast
 import scipy.interpolate as interpolate
 from scipy import optimize
 import copy
