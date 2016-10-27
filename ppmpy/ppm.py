@@ -124,8 +124,8 @@ plots the data.
 from numpy import *
 import numpy as np
 from math import *
-from data_plot import *
-import utils
+from NuGridPy.data_plot import *
+from NuGridPy import utils
 import matplotlib.pylab as pyl
 import matplotlib.pyplot as pl
 import os
